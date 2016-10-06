@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1036.3622)">
+    <rect
+       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;stroke:none" 
+       id="rect4035"
+       width="0"
+       height="10.999983"
+       x="-17"
+       y="1039.3622" />
+    <path
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0"
+       style="fill:currentColor;fill-opacity:1;stroke:none" 
+       d="M 3.7148438,1039.3622 3,1040.0575 l 2.6386719,2.7969 -2.6210938,2.8125 0.7148438,0.6953 2.9433593,-3.1621 L 7,1042.8544 l -0.3242188,-0.3477 -2.9609374,-3.1445 z m 3.2851562,9 0,1 6,0 0,-1 -6,0 z"
+       id="rect3918" />
+  </g>
+</svg>
